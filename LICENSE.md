@@ -4,9 +4,9 @@ Copyright (c) [2024]
 
 Founder author: advancedAI Hu
 
-Main author: advancedAI Hu
+Main author: Inberrado Wang
 
-Second author: 
+Second author: advancedAI Hu
 
 Inspiration author: Games Workshop, TSR, WIZARDS, Project Moon
 
